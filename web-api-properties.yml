@@ -1,0 +1,4 @@
+basic: 
+   value: true
+   message: Dynamic Message YAML
+   number: 100
